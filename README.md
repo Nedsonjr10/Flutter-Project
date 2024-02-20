@@ -2,7 +2,7 @@
 
 ## About the project
 
-Project to demonstrate my knowledge of Flutter.
+Project to demonstrate my knowledge of Flutter and Dart.
 
 ## Author
 
