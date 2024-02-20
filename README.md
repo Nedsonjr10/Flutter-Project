@@ -1,5 +1,9 @@
-# projeto_perguntas
+# Quiz
 
-A new Flutter project.
+## About the project
 
-## Getting Started
+Project to demonstrate my knowledge of Flutter.
+
+## Author
+
+Nedson Nogueira Bomman Junior.
